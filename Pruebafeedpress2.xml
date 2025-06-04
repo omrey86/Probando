@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="https://omrey86.github.io/Probando/feed-premium.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:anchor="https://anchor.fm/xmlns"
+xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+xmlns:feedpress="https://feed.press/xmlns"
+xmlns:media="http://search.yahoo.com/mrss/" 
+version="2.0"> 
+<channel>
+	    <feedpress:locale>en</feedpress:locale>
+<itunes:author>Omrey86</itunes:author>
+<copyright>Omrey86</copyright>
+         <title><![CDATA[Probando ]]></title>
+<link>https://omrey86.github.io/Probando/pro%20prueba%201.xml</link>
+<language>es</language>
+<description><![CDATA[Probando el feed
+<br><br>Suscribete a todos los podcast que participan en Iniciativa Soulslike abriendo <a href="https://archive.org/download/iniciativa-Soulslike/iSouls.opml">este archivo opml</a> con tu podcatcher favorito.]]></description>
+<generator>Josh Lucas - Omrey86</generator>
+       <image><url>https://ia600606.us.archive.org/15/items/iniciativa-Soulslike/iSouls.jpg</url>
+</image>
+<atom:link href="https://omrey86.github.io/Probando/pro%20prueba%201.xml" rel="self" type="application/rss+xml"/>
+<itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://raw.githubusercontent.com/omrey86/Probando/refs/heads/main/prueba%20podcast%201.jpg"/>
+<itunes:type>episodic</itunes:type>
+         <itunes:keywords>series,peliculas,radio,cine,tv</itunes:keywords>
+         <itunes:category text="Games &amp; Hobbies"><itunes:category text="Video Games"/></itunes:category>
+<itunes:owner><itunes:email>omrey86@gmail.com</itunes:email></itunes:owner>
+<op3>https://op3.dev/e,pg=63001302-bed1-5ab3-9be1-6f982c7a4588/
+</op3>
+
+
+
+<item><title><![CDATA[Probando el feed]]></title><link>https://www.ivoox.com/iniciativa-souls-13-pt-1-el-lore-de-audios-mp3_rf_149062529_1.html</link>
+<enclosure url="https://op3.dev/e,pg=63001302-bed1-5ab3-9be1-6f982c7a4588/https://www.ivoox.com/iniciativa-souls-13-pt-1-el-lore-de_mf_149062529_feed_1.mp3" type="audio/mpeg"  length="116145423"/>
+<description><![CDATA[Probando el feed
+<br><img src="https://raw.githubusercontent.com/omrey86/Probando/refs/heads/main/prueba%20podcast%201.jpg" />
+<br><a href="https://raw.githubusercontent.com/omrey86/Probando/refs/heads/main/bot%C3%B3n%20Prueba%201.jpg"><img src="https://raw.githubusercontent.com/omrey86/Probando/refs/heads/main/bot%C3%B3n%20Prueba%201.jpg" /></a>
+<br><a href="https://raw.githubusercontent.com/omrey86/Probando/refs/heads/main/bot%C3%B3n%20Prueba%201.jpg">Enlace a la imagen</a> 
+<br>Primera parte del especial Iniciativa Souls de Rocquimendaciones, en que Chinaski (con la mera intervención de un servidor) nos desgrana el trasfondo (o lore) de Elden Ring. Bueno, desgranar desgranar lo mismo tampoco, porque entonces no acabamos nunca. Un viaje conjunto por la experiencia de esta maravilla de From Software y los personajes que nos acompañan.
+<br>-
+<br>Escucha la Iniciativa Souls: https://open.spotify.com/playlist/64cwDXnJSD1kVPLZV3jY0Y?si=3ed54570d2604b12
+<br>-
+<br>Inscríbete a LabDesign OPEN 04: https://www.unir.net/evento/openclass/papel-director-arte-videojuegos/
+<br>-
+<br>
+<br>Tema 8-bit de la intro: https://www.youtube.com/watch?v=Kl4-HAepMtM
+<br>
+<br>
+<br>Streamings en www.twitch.tv/rocquitojuegos de lunes a jueves sobre las 10.30, fines de semana a todas horas :D
+<br>Calendario, otras redes, podcas y demás en https://linktr.ee/Rocquito.
+<br>Telegram del podcast y comentarios en https://t.me/Rocquimendaciones.]]></description>
+<pubDate>Tue, 03 Jun 2025 11:18:59 +0200</pubDate><itunes:duration>02:00:59</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType><guid>https://www.ivoox.com/149062529</guid>
+<itunes:image href="https://static-1.ivoox.com/audios/6/6/9/0/669038d0170133a405f5cdcc0aed395f_XXL.jpg"/></item>
+
+		
+
+</channel>
+</rss>
