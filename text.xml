@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Mi Podcast</title>
-    <itunes:image href="https://example.com/logo.jpg"/>
+    <itunes:image href="https://omrey86.github.io/Probando/ipsx.jpg"/>
     <item>
       <title>Episodio 1</title>
       <description>Primer episodio</description>
